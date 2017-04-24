@@ -11,7 +11,7 @@
 ---
 ## Update
 
-+ 2017 / 03 / 13
++ 2017 / 03 / 20 ([WEEK 2](https://github.com/koocci/AlphaCock/tree/master/week2))
     - 팀 편성
     - 프로젝트 제안서 작성
     - 회의록 작성
