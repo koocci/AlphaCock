@@ -25,6 +25,10 @@
 + 2017 / 04 / 20 ([WEEK 6](https://github.com/koocci/AlphaCock/tree/master/week6))
     - 유스케이스 명세서 문서 출력
     - 검사보고서 작성
++ 2017 / 04 / 28 ([WEEK 7](https://github.com/koocci/AlphaCock/tree/master/week7))
+    - Requirement Analysis 정리
+    - Class Analysis 이해
+    - Class Diagram 제작
 
 ---
 ## 개발환경
